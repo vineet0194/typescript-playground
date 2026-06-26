@@ -1,0 +1,12 @@
+1. npm install -g typescript        (globally installs ts)
+    or npm install typescript       (locally installs ts)
+
+2. npm init -y                      init npm (creates package.json)
+
+3. tsc --init                       init ts compiler (creates tsconfig.json)
+
+4. configure in tsconfig.json
+    "rootDir": "./src",             sets default root directory (for .ts files - src code)
+    "outDir": "./dist",             sets default out directory (for build output files)
+
+5. tsc - build                      build your ts code

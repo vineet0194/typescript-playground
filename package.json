@@ -1,0 +1,21 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "A private repository for practicing TypeScript fundamentals, experimenting with language features, and building small projects to improve my TypeScript skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineet0194/typescript-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vineet0194/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/vineet0194/typescript-playground#readme"
+}
